@@ -8,11 +8,18 @@ Antes de listar seus argumentos contrários ao Conselho, leia o projeto de lei e
 
 [Parecer com a última revisão feita ao texto da lei, feita da Comissão de Constituição e Justiça em 18/08/2009.](http://www6.senado.gov.br/mate-pdf/64268.pdf)
 
-###Antes de submeter um pull request, primeiro discuta no grupo online
+###Antes de submeter um pull request, primeiro discuta no grupo online.
+
 Acesse o [grupo](https://groups.google.com/forum/?fromgroups&#!forum/movimentodesconfei).
+
 A primeira mensagem sempre é moderada. Espere um moderador liberar seu acesso.
+
 Discuta com o grupo sua proposta de mudança, colha os feedbacks.
+
 Forke o projeto, faça suas mudanças. Pegue o feedback com o grupo e atualize suas mudanças.
+
 Se possível, altere seus commits para que tenha somente um commit por proposta de mudança.
+
 Faça o pull request. Se o processo todo foi seguido, provavelmente ele será aceito.
+
 Não reformate o código todo para as suas convenções. Altere conteúdo, não formato. Mudanças gerais que alteram identação, etc, serão rejeitadas.

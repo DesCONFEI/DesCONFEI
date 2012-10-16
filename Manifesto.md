@@ -30,5 +30,5 @@ Software de missão crítica já funciona bem atualmente
 -----------------------------------------------------
 
 
-O ecossistema de TI é complexo, incerto e não-determinístico. Não dar para aplicar a regras de sistemas simples (outros conselhos) em sistemas complexos (área de TI).
+O ecossistema de TI é complexo, incerto e não-determinístico. Não dar para aplicar regras de sistemas simples (outras áreas) em sistemas complexos (área de TI).
 -----------------------------------------------------

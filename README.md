@@ -6,7 +6,7 @@ Antes de listar seus argumentos contrários ao projeto de lei, leia o mesmo e en
 
 [Acompanhe a tramitação do Projeto de Lei 607/2007 no Senado.](http://www.senado.gov.br/atividade/materia/detalhes.asp?p_cod_mate=82918)
 
-[Parecer com a última revisão feita ao texto da lei, feita na Comissão de Assuntos Sociais em 07/07/2010.](http://www6.senado.gov.br/mate-pdf/64268.pdf)
+[Parecer com a última revisão feita ao texto da lei, feita na Comissão de Assuntos Sociais em 07/07/2010.](http://www6.senado.gov.br/mate-pdf/109724.pdf)
 
 ###Antes de submeter um pull request, primeiro discuta no grupo online.
 

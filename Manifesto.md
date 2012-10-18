@@ -30,6 +30,10 @@ Piso salarial criará inflacionamento do mercado
 Em defesa da criação do Conselho, muitos afirmam o piso salarial como um dos benefícios. Ignoram o fato de existir diferentes custos de vida por região ou cidades.
 O piso salarial seria definido por região, naturalmente, como já ocorre hoje em outros Conselhos.
 
+O estabelecimento de um piso salarial aumentaria a valorização de todos os profissionais, que por escassez de oferta, frequentemente recebem salários pouco condizentes com seu verdadeiro valor agregado.
+Tal medida vai comprometer severamente a capacidade de contratação das empresas, que já sofrem atualmente por terem muitas vagas disponíveis e poucos profissionais para preenchê-las.
+Por fim, as empresas acabarão pagando muito para ter poucos profissionais de baixo valor agregado - situação que já ocorre hoje e se intensificaria.
+
 
 Elitização é contraditória com valores e pensamentos atuais
 -----------------------------------------------------------

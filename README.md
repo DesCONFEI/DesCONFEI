@@ -23,3 +23,7 @@ Se possível, altere seus commits para que tenha somente um commit por proposta 
 Faça o pull request. Se o processo todo foi seguido, provavelmente ele será aceito.
 
 Não reformate o código todo para as suas convenções. Altere conteúdo, não formato. Mudanças gerais que alteram identação, etc, serão rejeitadas.
+
+##Depois de discutir
+
+Caso concorde que o PLS **não** deve ser aprovado, [assine a petição para acabar com o Projeto](http://www.peticaopublica.com.br/?pi=P2012N30508)

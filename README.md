@@ -26,4 +26,4 @@ Não reformate o código todo para as suas convenções. Altere conteúdo, não 
 
 ###Ações pós-discussão
 
-Caso concorde que o PLS *não* deve ser aprovado, [assine a petição para acabar com o Projeto](http://www.peticaopublica.com.br/?pi=P2012N30508)
+Caso concorde que o PLS **não** deve ser aprovado, [assine a petição para acabar com o Projeto](http://www.peticaopublica.com.br/?pi=P2012N30508)
